@@ -1,4 +1,4 @@
-# Serpentcipher
+# Serpent cipher implementation
 
 This Software application is used to implement SERPENT Cipher in encrypting and decrypting individual columns in CSV files.It is implemented with the help of Flask,Python,HTML,CSS.
 
